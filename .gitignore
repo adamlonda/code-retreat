@@ -206,3 +206,13 @@ iisnode
 .idea/tasks.xml
 .idea/dictionaries
 out/
+
+C-sharp/\.vs/C-sharp/DesignTimeBuild/\.dtbcache
+
+C-sharp/\.vs/C-sharp/v15/Server/sqlite3/db\.lock
+
+C-sharp/\.vs/C-sharp/v15/Server/sqlite3/storage\.ide
+
+C-sharp/\.vs/C-sharp/v15/Server/sqlite3/storage\.ide-shm
+
+C-sharp/\.vs/C-sharp/v15/Server/sqlite3/storage\.ide-wal
